@@ -1,6 +1,6 @@
 <h3 align="center">
     <br><br>
-    <b>Validando uma POC - (PROOF OF CONCEPT) - Atraves da criação de uma biblioteca Npm com Web Component utlizando a Lib - stenciljs  para criar componentes reutilizaveis em qualquer frameworks</b>  
+    <b>Validando uma POC - (PROOF OF CONCEPT) - Atraves da criação de uma biblioteca Npm com Web Component utlizando a Lib - stenciljs  para criar componentes reutilizaveis em qualquer frameworks ( Angular, React, Vue e Ember )</b>  
     <br>
 </h3>
 <br>
@@ -66,7 +66,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça o clone da aplicação web utilizada para consumir a biblioteca Npm :
 
 ```sh
-   $ git clone https://github.com/Rafael-Rufino/web
+   $ git clone https://github.com/Rafael-Rufino/web-teste.git
 ```
 
 2. Faça o clone do repositorio da biblioteca NPM :
